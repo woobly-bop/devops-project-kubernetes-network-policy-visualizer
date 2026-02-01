@@ -1,11 +1,11 @@
 # Kubernetes Network Policy Visualizer
 
-Student Name: Deep Kiran Kaur
-Registration No: 23FE10CSE00307
-Course: CSE3253 DevOps [PE6]  
-Semester: VI (2025-2026)  
-Project Type: Kubernetes & Security  
-Difficulty: Intermediate  
+- Student Name: Deep Kiran Kaur
+- Registration No: 23FE10CSE00307
+- Course: CSE3253 DevOps [PE6]  
+- Semester: VI (2025-2026)  
+- Project Type: Kubernetes & Security  
+- Difficulty: Intermediate  
 
 ---
 
